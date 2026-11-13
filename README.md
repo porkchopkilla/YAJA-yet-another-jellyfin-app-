@@ -12,8 +12,6 @@ Download the yaja.civapp from the releases tab and upload with FTP to your Civ H
 - A splash screen while your libraries and artwork load behind it
 
 ### Playback
-- Hardware H.264 decoding through the console's native video pipeline
-- Smooth, full-frame-rate video: the server transcodes to H.264 Baseline with Opus audio, avoiding the frame pairing that halves frame rates on this decoder
 - On-screen media bar: **Pause/Play**, **skip 10 s**, **Subtitles**, **Audio track** and **Quality**
 - Subtitles burned in by the server; switching subtitles, audio or quality picks up at the same moment
 - Skip 10 seconds with left/right or 1 minute with L/R, with repeated presses combined into one jump
